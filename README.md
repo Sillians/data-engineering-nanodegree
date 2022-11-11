@@ -26,6 +26,7 @@ Here you can take a look at all my exercise notebooks made throughout the nanode
  
   - Project 5: [Sparkify's Event Logs Data Pipeline](https://github.com/gabfr/data-engineering-nanodegree/tree/master/4-data-pipelines-with-airflow/L4_project)
   
+  
  ### 5. Capstone Project
  
   - Work around the world: a simple and unified dataset with jobs from major tech jobs lists
